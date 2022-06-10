@@ -1,0 +1,2 @@
+C:\Users\kalob\Desktop\C++\War\Debug\War.exe
+C:\Users\kalob\Desktop\C++\War\Debug\War.pdb
